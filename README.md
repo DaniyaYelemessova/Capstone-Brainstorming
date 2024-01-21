@@ -12,6 +12,18 @@
 
 ### <div align="center"> <img src="src/images/capstone ideas.png" alt="ideas board" width="200px"> 
 
+### Project Outline: Pet Adoption Platform 
+
+ - Web platform designed to facilitate the adoption of pets by connecting potential adopters with animal shelters and rescue organizations. It serves as a central database for adoptable pets, providing information about various animals, their backgrounds, and the organizations that care for them.
+
+- Key features that I would like to include: Pet Listings, Shelter Information, User Accounts.
+
+### Project Outline: Language Exchange Volunteer App
+
+- Platform that connects people wanted to learn different languages. Users can practice speaking with native language speakers.
+
+- Key features that I would like to include: User Profiles, Community Forum.
+
 
 ## <div align="center"> <img src="images/github.png" alt="github icon" width="200px"> _Link to site on Github Pages:_
 
