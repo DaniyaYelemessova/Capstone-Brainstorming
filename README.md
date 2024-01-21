@@ -13,7 +13,7 @@
 ### <div align="center"> <img src="src/images/capstone ideas.png" alt="ideas board" width="200px"> 
 
 
-## <div align="center"> <img src="images/github.png" alt="github icon" width="30px"> _Link to site on Github Pages:_
+## <div align="center"> <img src="images/github.png" alt="github icon" width="200px"> _Link to site on Github Pages:_
 
 - [GitHub page link](https://github.com/DaniyaYelemessova)
 
